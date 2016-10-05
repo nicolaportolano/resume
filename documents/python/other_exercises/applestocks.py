@@ -1,5 +1,5 @@
 # The following script takes a list 'x' that contains the values of Apple stocks (or whatever you want). Each value occurred at a specific time of the day
-# (say a new value is generated every minute). The script then calculates what is (or would have been) the best price to buy some stocks and the best price to then resell them.
+# (say a new value is generated every minute). The script then calculates what is (or would have been) the best price to buy some stocks and the best price to then resell them. Ciao ciao
 import random as r
 
 
