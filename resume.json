@@ -1,0 +1,167 @@
+{
+  "basics": {
+    "name": "Nicola Portolano",
+    "label": "Data Scientist",
+    "picture": "Nico.jpg",
+    "email": "n.portolano@gmail.com",
+    "phone": "+44 07900377907",
+    "website": "www.facebook.com",
+    "summary": "Nicola has a bachelor degree and a Ph.D. in biochemistry and he is currently working as a research scientist. To find answers to scientific problems, he dedicates a lot of time to data analysis and engineering as well as project and experimental design. He is interested in applying his strong backround in research in the field of data science. Nicola also enjoys using Python and MySQL to aid his work, he likes socialising and is keen in learning new skills in data analysis, engineering and architecture.",
+    "location": {
+      "city": "London",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Nicola Portolano",
+        "url": "https://uk.linkedin.com/in/nicola-portolano-4622a389"
+      },
+      {
+        "network": "GitHub",
+        "username": "nicolaportolano",
+        "url": "https://github.com/nicolaportolano"
+      }
+    
+    ]
+  },
+  "work": [
+    {
+      "company": "University of Leicester",
+      "position": "Postdoctoral research associate",
+      "website": "https://le.ac.uk",
+      "startDate": "2016-04-20",
+      "endDate": "2016-10-02",
+      "summary": "Worked in a team of chemists to find solutions to scientific problems with potential medical applications.",
+      "highlights": [
+	"Extensively used scientific databases to collect data and store it in easily parsable data structures.",
+	"Analysed various types of data and applied statistics to determine experiment repetibility and significance.",
+	"Designed new projects for students and outlined experimental methods.",
+	"Presented data at an international conference in Newport, RI."
+	
+      ]
+    },
+    {
+      "company": "Malta High Commission, London UK",
+      "position": "Intern",
+      "website": "https://foreignaffairs.gov.mt/en/Pages/HomePage.aspx",
+      "startDate": "2009-06-01",
+      "endDate": "2009-08-01",
+      "summary": "Covered many different roles within the High Commission",
+      "highlights": [
+	"Created a small database containing information on High Commission files."
+      ]
+    },
+    {
+      "company": "University of Westminster, London UK",
+      "position": "Student Intern",
+      "website": "https://www.westminster.ac.uk",
+      "startDate": "2009-06-01",
+      "endDate": "2009-07-01",
+      "summary": "Worked on a small biochemistry project",
+      "highlights": [
+	"Leart basic skills in scientific research."
+      ]
+    }
+  ],
+  "volunteer": [{
+      "organization": "Association of the Young Diplomats in London",
+      "position": "Volunteer",
+      "website": "http://www.ydlondon.org.uk",
+      "startDate": "2007-10-01",
+      "endDate": "2009-07-01",
+      "summary": "Charity",
+      "highlights": [
+        "Helped managing Excel lists of people invited to charity events.",
+	"Learnt to work under stressing conditions."
+      ]
+    }],
+  "education": [
+    {
+      "institution": "University of Leicester",
+      "area": "Biochemistry",
+      "studyType": "Ph.D.",
+      "startDate": "2010-10-01",
+      "endDate": "2014-09-30",
+      "gpa": "n/a",
+      "courses": [
+	"Exensively used scientific databases to collect data and store it in easily parsable data structures.",
+	"Responsible for own project, outlined experimental methods and applied statistics in data analysis.",
+	"Published two research papers, one of which tackles technical issues in experimental biology."
+	
+       
+      ]
+    },
+    {
+      "institution": "University of Westminster",
+      "area": "Biochemistry",
+      "studyType": "BSc.",
+      "startDate": "2007-10-01",
+      "endDate": "2010-05-30",
+      "gpa": "4",
+      "courses": [
+        "Statistics"
+       
+      ]
+    }
+      
+  ],
+
+  "publications": [
+    {
+	"name": "Recombinant Protein Expression.",
+	"publisher": "JoVE",
+	"releaseDate": "16-10-2014",
+	"website": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4420617/",
+	"summary": "The paper shows an innovative solution to tackle some issues in experimental biology."
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT",
+      "keywords": [
+        "Python",
+        "MySQL",
+	"OSX, Windows, Linux"
+        
+      ]
+    },
+    {
+      "name": "Research",
+      "keywords": [
+	"Data analysis",
+	"Project and experimental design",
+	"Data presentation"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    },
+    {
+      "language": "Italian",
+      "fluency": "Native Speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Intermediate"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Sports",
+      "keywords": [
+        "Judo",
+        "Swimming"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Available on request.",
+      "reference": " "
+    }
+  ]
+}
